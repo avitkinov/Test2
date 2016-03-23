@@ -1,0 +1,4 @@
+netsh wlan set hostednetwork mode=allow ssid=vitkinovPC key=kirchevo
+netsh wlan start hostednetwork
+
+https://www.microsoft.com/security/pc-security/malware-removal.aspx
